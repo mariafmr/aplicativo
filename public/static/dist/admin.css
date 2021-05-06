@@ -1,0 +1,31 @@
+.opts a{
+    border-radius:4px;
+    border:1px solid #f0f0f0;
+    display:inline-block;
+    padding:8px 12px;
+}
+.content-header{
+    padding-top:30px;
+}
+.breadcrumb{
+    height: 40px;   
+}
+.breadcrumb>li{
+    height: 20px !important;
+}
+.content{
+    padding:15px !important; 
+    padding-top:5px !important; 
+}
+.callout a{
+    text-decoration: none;
+}
+.navbar-custom-menu{
+ width: 180px !important; 
+}
+.navbar-nav{
+    width: 150px !important; 
+}
+
+.thumbnail {margin-bottom:6px;}
+
